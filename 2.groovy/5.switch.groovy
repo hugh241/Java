@@ -1,4 +1,4 @@
-def var = 125
+def var = 1.2f
 switch(var){
     case 0:println 'One'
     case 11..20: println 'Two'
